@@ -12,11 +12,11 @@ Aplikasi ini dikembangkan sebagai simulasi **Extreme Programming (XP)** dalam pe
 
 ## 👥 Anggota Kelompok
 
-| NIM         | Nama                          |
-|-------------|-------------------------------|
-| 231110569   | Arya Ghuna Faturrahman        |
-| 231110333   | Ade Kurnia Setialu Dani       |
-| 231111234   | [Nama Anggota Ketiga]         |
+| NIM         | Nama                            |
+|-------------|---------------------------------|
+| 231110569   | Arya Ghuna Faturrahman          |
+| 231110333   | Ade Kurnia Setialu Dani         |
+| 231112747   | Muhammad Dhani Irvansyah        |
 
 ---
 
