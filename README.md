@@ -15,7 +15,7 @@ Aplikasi ini dikembangkan sebagai simulasi **Extreme Programming (XP)** dalam pe
 | NIM         | Nama                            |
 |-------------|---------------------------------|
 | 231110569   | Arya Ghuna Faturrahman          |
-| 231110333   | Ade Kurnia Setialu Dani         |
+| 231110333   | Ade Kurnia Setialu              |
 | 231112747   | Muhammad Dhani Irvansyah        |
 
 ---
@@ -76,7 +76,7 @@ Aplikasi ini dikembangkan sebagai simulasi **Extreme Programming (XP)** dalam pe
 
 ---
 
-### 👤 Ade Kurnia Setialu Dani
+### 👤 Ade Kurnia Setialu
 - Komponen: `task-list.tsx`, `task-filters.tsx`
 - Fokus: tampilan daftar dan filter
 - Commit:
@@ -87,7 +87,7 @@ Aplikasi ini dikembangkan sebagai simulasi **Extreme Programming (XP)** dalam pe
 
 ---
 
-### 👤 [Nama Anggota Ketiga]
+### 👤 Muhammad Dhani Irvansyah
 - Komponen: `task-quick-actions.tsx`, `theme-toggle.tsx`
 - Fokus: interaksi cepat & UI tema
 - Commit:
